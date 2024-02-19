@@ -3,12 +3,12 @@
 
 @font-face {
     font-family: font2;
-    src: url(/fontes/monospace_typewrite/MonospaceTypewriter.ttf)
+    src: url(fontes/monospace_typewrite/MonospaceTypewriter.ttf)
 }
 
 @font-face {
     font-family: font1; 
-    src: url(/cursive_sans/CursiveSans-Book.ttf);
+    src: url(fontes/cursive_sans/CursiveSans-Book.ttf);
 
 
 }
